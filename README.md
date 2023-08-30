@@ -1,5 +1,5 @@
 ### About Me
-Hey there! I’m Guilherme Arruda, 20 years old, currently living in Brazil. 
+Hey there! I’m Guilherme Arruda, 21 years old, currently living in Brazil. 
 
 Currently, I am a graduate student in Computer Science at Federal University of ABC. (UFABC, Universidade Federal do ABC) in Santo André, São Paulo.
 
