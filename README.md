@@ -1,16 +1,14 @@
-### Hi there 👋
+### About Me
+Hey there! I’m Guilherme Arruda, 20 years old, currently living in Brazil. 
 
-<!--
-**Guilherme-Arruda/Guilherme-Arruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I am a graduate student in Computer Science at Federal University of ABC. (UFABC, Universidade Federal do ABC) in Santo André, São Paulo.
 
-Here are some ideas to get you started:
+### Technologies
+- Front-end Development with HTML, CSS, Javascript, React and NextJS.
+- Scientific Computing and Data Analysis with Python.
+- Relational Database with PostgreSQL. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Contact Me
+- <a href="https://www.linkedin.com/in/guilhermeearruda/">Linkedin</a>
+- <a href="mailto:guipanfiglio123@outlook.com">E-mail</a>
+</div>
